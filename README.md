@@ -1,4 +1,4 @@
-#🎭 Ripcord Dark Purple theme
+# 🎭Ripcord Dark Purple theme
 inspired by
 - [Discord](https://discord.com/app)
 - [GitHub](https://github.com/)
