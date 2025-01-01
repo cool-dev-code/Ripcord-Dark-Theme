@@ -5,7 +5,7 @@
 > Using Ripcord or any other modded discord client is against TOS. Use at your own risk.
 
 ## ⬇️ How to Apply Theme
-1. Copy raw JSON theme code from [here](https://github.com/cool-dev-code/ripcord-discord-dark/blob/main/theme.JSON)
+1. Copy raw JSON theme code from [here](https://github.com/cool-dev-code/Ripcord-Themes/blob/main/theme.JSON)
 2. Open **Ripcord**
 3. Goto `View` > `Preferences` > `Style` > `Theme`
 4. Choose `Custom` > `Customize` > `Paste from JSON`
