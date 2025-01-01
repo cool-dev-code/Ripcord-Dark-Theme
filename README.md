@@ -1,4 +1,4 @@
-# 🎭Ripcord Dark Purple theme
+# 🎭Ripcord Themes
 
 ## ⬇️ How to Apply Theme
 1. Copy raw JSON theme code from [here](https://github.com/cool-dev-code/Ripcord-Themes/blob/main/theme.JSON)
